@@ -1,4 +1,4 @@
 ## The following sponsors help keep our content up to date and open source.
-| ![JAMSS](https://github.com/functionalresonance/.github/blob/main/images/JAMSS_logo.png) | **[Japan Manned Space Systems Corporation](https://www.jamss.co.jp/en/)** | ![Cardiff University](https://github.com/functionalresonance/.github/blob/main/images/Cardiff_uni_logo.png) | **[Cardiff University](https://www.cardiff.ac.uk/)** |
-| --- | --- | --- | --- | 
-| ![Zerprize](https://github.com/functionalresonance/.github/blob/main/images/Zerprize_logo.png) | **[Zerprize Limited](https://zerprize.co.nz)** | ![Cambrensis](https://github.com/functionalresonance/.github/blob/main/images/Cambrensis_logo.png) | **[Cambrensis Ltd.](https://www.linkedin.com/company/cambrensis-ltd-/about/)** |
+| ![JAMSS](https://github.com/functionalresonance/.github/blob/main/images/JAMSS_logo.png) | **[Japan Manned Space Systems Corporation](https://www.jamss.co.jp/en/)** | ![Cardiff University](https://github.com/functionalresonance/.github/blob/main/images/Cardiff_uni_logo.png) | **[Cardiff University](https://www.cardiff.ac.uk/)** | ![Cambrensis](https://github.com/functionalresonance/.github/blob/main/images/Cambrensis_logo.png) | **[Cambrensis Ltd.](https://www.linkedin.com/company/cambrensis-ltd-/about/)** |
+| --- | --- | --- | --- | --- | --- | 
+| | | | | ![Zerprize](https://github.com/functionalresonance/.github/blob/main/images/Zerprize_logo.png) | **[Zerprize Limited](https://zerprize.co.nz)** |
